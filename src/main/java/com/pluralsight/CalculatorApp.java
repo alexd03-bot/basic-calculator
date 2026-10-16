@@ -16,8 +16,7 @@ public class CalculatorApp {
         System.out.println("Enter the second number: \n");
         int num2 = scanner.nextInt();
 
-        //Possible calculations:
-        //(A)dd(S)ubtract(M)ultiply(D)ivide
+        System.out.println("Possible calculations: (A)dd (S)ubtract (M)ultiply (D)ivide");
 
         System.out.println("Please select an option: \n");
 
